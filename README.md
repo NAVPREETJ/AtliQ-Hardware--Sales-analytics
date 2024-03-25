@@ -1,7 +1,7 @@
 
 
 # AtliQ-Hardware--Sales-analytics
-In this project i created market performance report, consumer performance report, profit & loss report using excel pivot table which will help businesses to determine effectime customer discount, potential business expension opportunities, revenue in the form of profit. With the help of this report businesses can know about the required tools and insights to evaluate and enhance their sales.
+In this project I created market performance report, consumer performance report, profit & loss report and many more related reports using excel pivot table which will help businesses to determine effectime customer discount, potential business expension opportunities, revenue in the form of profit. With the help of this report businesses can know about the required tools and insights to evaluate and enhance their sales.
 
 
 
